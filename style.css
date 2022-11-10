@@ -35,7 +35,7 @@
 
   display: flex;
   flex-direction: column;
-  margin-right: 2rem;
+  margin-right: 5rem;
   
 }
 
@@ -334,7 +334,7 @@ body.menu-expanded button path {
 #home::before {
   content: '';
   width: 100%;
-  height: calc(73% + var(--nav-height));
+  height: calc(80% + var(--nav-height));
   background-color: var(--brand-light);
   display: block;
 
